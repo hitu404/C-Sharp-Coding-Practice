@@ -2,8 +2,7 @@ public class Solution {
     public string ToLowerCase(string str) {
         if(str.Length>0)
         {
-         return   str.ToLower();
-            
+         return str.ToLower();
         }
      return string.Empty;   
     }
